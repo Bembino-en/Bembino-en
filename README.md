@@ -9,10 +9,10 @@
 
 ### 🧠 About Me
 
-- 🎓 Background in **Economics and Finance**
-- 🧪 Currently diving deep into **Data Science**, **Machine Learning**, and **Python**
-- 🎯 Focused on building **AI-driven solutions** in fintech, business intelligence, and market analytics
-- 🚀 On a mission to become a world-class problem solver through **technology and innovation**
+-  Background in **Economics and Finance**
+-  Currently diving deep into **Data Science**, **Machine Learning**, and **Python**
+-  Focused on building **AI-driven solutions** in fintech, business intelligence, and market analytics
+-  On a mission to become a world-class problem solver through **technology and innovation**
 
 ---
 
@@ -49,9 +49,10 @@
 
 ### 🧩 Current Projects
 
-- 🎬 **Movie Analytics**: Recommending profitable genres for new studios using IMDb & box office data
-- ✈️ **Aircraft Safety Dashboard**: Investigating flight incidents to improve aviation safety
-- 📈 **Credit Default Prediction**: Forecasting risk using machine learning on financial data
+- **Movie Analytics**: Recommending profitable genres for new studios using IMDb & box office data
+- **Aircraft Safety Dashboard**: Investigating flight incidents to improve aviation safety
+- **Churn Prediction**: Predicting the posibility of customers leaving Syria-telecom services
+- **Credit Default Prediction**: Forecasting risk using machine learning on financial data
 
 ---
 

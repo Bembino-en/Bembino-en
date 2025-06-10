@@ -1,8 +1,8 @@
-#
+# Bembino-en
 
 <!-- Profile README for Bembino-en -->
 
-<h1 align="center">Hi 👋, I'm Bembino</h1>
+<h1 align="center">Hi, I'm Denis Kibor</h1>
 <h3 align="center">An ambitious data scientist in the making | Passionate about solving real-world problems using AI.</h3>
 
 ---

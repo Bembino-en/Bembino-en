@@ -2,19 +2,23 @@
 
 <!-- Profile README for Bembino-en -->
 
-<h1 align="center">Hi, I'm Denis Kibor</h1>
-<h3 align="center">An ambitious data scientist in the making | Passionate about solving real-world problems using AI.</h3>
+<h1 align="center">Hi, I'm Denis Kibor 👋</h1>
+<h3 align="center">Economics & Finance graduate | Aspiring Data Scientist | Turning messy data into decisions</h3>
 
 ---
 
 ### 🧠 About Me
 
--  Background in **Economics and Finance**
--  Currently diving deep into **Data Science**, **Machine Learning**, and **Python**
--  Focused on building **AI-driven solutions** in fintech, business intelligence, and market analytics
--  On a mission to become a world-class problem solver through **technology and innovation**
+- 🎓 Background in **Economics and Finance**, with training in **Data Science & Machine Learning**  
+- 🐍 Skilled in **Python, SQL, and Power BI** for data analysis, visualization, and predictive modeling  
+- 📊 Focused on **fintech, business intelligence, and market analytics** projects  
+- 🚀 Driven to build **AI-powered solutions** that solve real-world problems and create measurable impact  
+- 🌍 Currently learning by doing — building projects, analyzing datasets, and sharing insights  
 
 ---
+
+### ⚡ Mission  
+To bridge **finance and data science** by creating tools and insights that improve decision-making, reduce risk, and unlock growth.  
 
 ### 🛠️ Tools & Technologies
 
